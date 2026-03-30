@@ -1,4 +1,5 @@
 # OpenFocus
+This should be a chrome extension and an app.
 
 - Make it so that this app can be controlled externally, like parental controls.
 - Blocks recommendations like the unhook chrome extension, and you can customize to block just certain topics (like flowzy v2).
